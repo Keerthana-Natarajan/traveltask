@@ -258,6 +258,11 @@ border-radius: 10px;
     height: 250px;
 }
 
+.lable img{
+    position: relative;
+    right: 30px;
+}
+
 .foot ul li{
  list-style: none;
  padding-bottom: 10px;
